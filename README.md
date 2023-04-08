@@ -1,1 +1,1 @@
-# Digital Lync LMS
+# Digital Lync LMS [![Build and deploy a container to an Azure Web App](https://github.com/ramesh-km/lms-public/actions/workflows/azure-container-webapp.yml/badge.svg?branch=main)](https://github.com/ramesh-km/lms-public/actions/workflows/azure-container-webapp.yml)
